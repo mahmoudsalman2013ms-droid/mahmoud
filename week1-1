@@ -1,0 +1,6 @@
+ # include <stdio.h>
+
+ int main(void){
+  answer = get-string ("what's your name? ") ;
+   printf ("hello, answer/n);
+}
